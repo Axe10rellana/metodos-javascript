@@ -1,0 +1,25 @@
+{
+  "name": "metodos-javascript",
+  "version": "0.0.1",
+  "description": "Javascript Arrays These are a few examples of how to start using Javascript array methods like map, reduce, filter, and so on.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "prettier": "prettier -w ."
+  },
+  "keywords": [
+    "javascript",
+    "arrays",
+    "methods"
+  ],
+  "author": "Axe10rellana",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.2.3",
+    "nodemon": "^2.0.15",
+    "prettier": "^2.6.2"
+  }
+}
